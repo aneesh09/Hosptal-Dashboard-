@@ -48,5 +48,15 @@ Analyze rise in self-managed cases for potential triage or education opportuniti
 
 📎 Tools Used
 Power BI for dashboard creation
-Excel for data wrangling
-Python & PowerPoint (python-pptx) for automated reporting
+
+
+<img width="1161" height="712" alt="highest score satisfaction score" src="https://github.com/user-attachments/assets/905e4dc8-d894-4769-b09b-20fa2e8018ec" />
+
+
+
+<img width="1162" height="720" alt="lowest satisfaction score" src="https://github.com/user-attachments/assets/c7596706-43a4-4d29-bf38-5fba3a75dcf4" />
+
+
+
+
+
